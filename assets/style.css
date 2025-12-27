@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #0f172a;
+    color: #e5e7eb;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  
+  h1, h2, h3 {
+    color: #f9fafb;
+  }
+  
+  .subtitle {
+    color: #9ca3af;
+    margin-bottom: 40px;
+  }
+  
+  .card {
+    border: 1px solid #1f2933;
+    border-radius: 12px;
+    padding: 20px;
+    background: #020617;
+  }
+  
+  a {
+    color: #60a5fa;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  footer {
+    margin-top: 60px;
+    font-size: 13px;
+    color: #6b7280;
+  }
